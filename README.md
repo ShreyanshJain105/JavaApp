@@ -36,7 +36,7 @@ Installation
 Clone the Repository:
 
 
-git clone https://github.com/thevipulvats/journalApp.git
+git clone https://github.com/ShreyanshJain105/journalApp.git
 cd journalApp
 Build the Project:
 
