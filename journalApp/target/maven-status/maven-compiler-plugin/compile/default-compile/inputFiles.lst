@@ -1,0 +1,12 @@
+S:\journalApp\src\main\java\net\Shreyansh\journalApp\config\SpringSecurity.java
+S:\journalApp\src\main\java\net\Shreyansh\journalApp\controller\JournalEntryControllerv2.java
+S:\journalApp\src\main\java\net\Shreyansh\journalApp\JournalApplication.java
+S:\journalApp\src\main\java\net\Shreyansh\journalApp\controller\PublicController.java
+S:\journalApp\src\main\java\net\Shreyansh\journalApp\service\JournalEntryService.java
+S:\journalApp\src\main\java\net\Shreyansh\journalApp\service\UserService.java
+S:\journalApp\src\main\java\net\Shreyansh\journalApp\entity\JournalEntry.java
+S:\journalApp\src\main\java\net\Shreyansh\journalApp\service\UserDetailsServiceImpl.java
+S:\journalApp\src\main\java\net\Shreyansh\journalApp\entity\User.java
+S:\journalApp\src\main\java\net\Shreyansh\journalApp\repository\JournalEntryRepository.java
+S:\journalApp\src\main\java\net\Shreyansh\journalApp\controller\UserController.java
+S:\journalApp\src\main\java\net\Shreyansh\journalApp\repository\UserRepository.java
